@@ -12,4 +12,4 @@ game.StarterGui:SetCore("ChatMakeSystemMessage", {
 
 wait(2) -- Delay cho có tí drama
 
-LocalPlayer:Kick("Bạn đã ban vĩnh viễn khỏi trò chơi do sử dụng script")
+LocalPlayer:Kick("Bạn đã bị ban vĩnh viễn khỏi trò chơi do sử dụng script")
